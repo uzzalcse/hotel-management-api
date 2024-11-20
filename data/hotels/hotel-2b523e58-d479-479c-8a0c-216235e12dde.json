@@ -1,0 +1,49 @@
+{
+  "id": "hotel-2b523e58-d479-479c-8a0c-216235e12dde",
+  "slug": "hotel-le-meridien",
+  "images": [],
+  "title": "hotel le meridien",
+  "description": "one of the best hotel located in dhaka",
+  "guestCount": 4,
+  "bedroomCount": 2,
+  "bathroomCount": 2,
+  "amenities": [
+    "wifi",
+    "pool",
+    "spa",
+    "beach access",
+    "room service"
+  ],
+  "host": {
+    "name": "John Smith",
+    "email": "john.smith@resort.com"
+  },
+  "address": "123 Ocean Drive, Miami Beach, FL 33139",
+  "location": {
+    "latitude": 25.7617,
+    "longitude": -80.1918
+  },
+  "rooms": [
+    {
+      "hotelSlug": "hotel-le-meridien",
+      "roomSlug": "ocean-view-suite",
+      "roomImage": "",
+      "roomTitle": "Ocean View Suite",
+      "bedroomCount": 1
+    },
+    {
+      "hotelSlug": "hotel-le-meridien",
+      "roomSlug": "hell-here-don't-move",
+      "roomImage": "",
+      "roomTitle": "hell here don't move",
+      "bedroomCount": 2
+    },
+    {
+      "hotelSlug": "hotel-le-meridien",
+      "roomSlug": "this-is-new-from-put",
+      "roomImage": "",
+      "roomTitle": "this is new from put",
+      "bedroomCount": 2
+    }
+  ]
+}
